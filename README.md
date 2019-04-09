@@ -60,4 +60,4 @@ Senior software engineer with over ten years of technical experience and diverse
 
 <!--	FOOTER	-->
 ####				Clone this resume!
-![Clone this](res/resumeRepoLink.png "Clone Jamie's Resume")
+[![Clone this](res/resumeRepoLink.png "Clone Jamie's Resume")](https://github.com/JamieHeart/resume/)
