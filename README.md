@@ -20,7 +20,10 @@
 <!--	INTRO	-->
 ###			About Jamie
 
-Servant leader and avid proselytizer of the scientific method. I don't form opinions on topics I don't consider myself and expert. I have a lot of opinions. Personal interests: Running, swimming and cycling. I also enjoy Motorsports; four-wheeling, and motorcycles. The Oxford comma should not be feared.
+Servant leader and avid proselytizer of the scientific method: I only form opinions on topics I consider myself an expert.
+I have a lot of opinions.
+Personal interests: Running, swimming and cycling. I also enjoy Motorsports; four-wheeling, and motorcycles.
+The Oxford comma should not be feared.
 
 <!--	SKILLS	-->
 ##		Skills and Specialities
