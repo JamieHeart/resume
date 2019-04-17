@@ -31,8 +31,10 @@ Senior software engineer with over ten years of technical experience and diverse
 <!--	SKILLS	-->
 ##		Skills and Specialities
 
-*	JAVA
-*	C#
+*   Proficient Programmer
+    *	JAVA / Tomcat / JSP
+    *	C# / ASP.net / Microsoft SQL / IIS
+    *   JavaScript / Node / React / 
 
 <!--	HISTORY	-->
 
