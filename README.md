@@ -31,6 +31,10 @@ Senior software engineer with over ten years of technical experience and diverse
 <!--	SKILLS	-->
 ##		Skills and Specialities
 
+| Language | Stack | Back End  |
+|----------|:-----:|----------:|
+| C#       | LAMP | MS SQL |
+
 *   Proficient Programmer
     *	JAVA / Tomcat / JSP
     *	C# / ASP.net / Microsoft SQL / IIS
